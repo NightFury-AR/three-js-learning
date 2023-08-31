@@ -1,6 +1,7 @@
 //1. scene , 2. mesh (geomentary+material) , 3. camera
+import * as THREE from 'three/build/three';
 
-
+console.log(THREE,"trTRTr");
 //scene
 const scene = new THREE.Scene();
 
